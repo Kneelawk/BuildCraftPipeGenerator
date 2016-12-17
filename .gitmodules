@@ -1,0 +1,3 @@
+[submodule "WavefrontTools"]
+	path = WavefrontTools
+	url = git@github.com:Kneelawk/WavefrontTools.git
